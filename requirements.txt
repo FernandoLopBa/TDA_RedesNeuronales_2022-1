@@ -1,0 +1,6 @@
+giotto-tda
+matplotlib
+openml
+pandas
+yfinance
+seaborn
